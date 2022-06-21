@@ -10,4 +10,4 @@ MPI that simultaneously improves interference and noise robustness, effectively 
 
 For more information, you can check the final report inside this repository.
 
-You can watch my [senior project presentation video]{https://drive.google.com/file/d/1BM2vfL51L468SgNjBzF7beLHIvSJtqtY/view?usp=sharing} in the 31^{th} Graduate Research Conference at at the Department of Electrical and Electronics Engineering at Bilektn University. 
+You can watch my [senior project presentation video](https://drive.google.com/file/d/1BM2vfL51L468SgNjBzF7beLHIvSJtqtY/view?usp=sharing) in the 31^{th} Graduate Research Conference at at the Department of Electrical and Electronics Engineering at Bilektn University. 
