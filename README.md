@@ -1,4 +1,4 @@
-# Interference-Noise-Robust-Image-Reconstruction
+# Interference and Noise Robust Image Reconstruction
 
 ## Abstract 
 
